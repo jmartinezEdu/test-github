@@ -1,5 +1,3 @@
 hola
 silla
 mesas
-sillones
-sofa
