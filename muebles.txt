@@ -3,3 +3,4 @@ silla
 mesas
 sillones
 sofa
+Nicolas Mueble NPC
